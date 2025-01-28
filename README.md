@@ -1,2 +1,2 @@
 # bookbot
-Boot.Dev guided tutorial for creating a bookbot in python
+BookBot is my first project!
